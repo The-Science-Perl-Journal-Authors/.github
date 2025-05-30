@@ -8,3 +8,7 @@ In the meantime, please check out the following links:
 - https://PerlCommunity.org/science
 - https://science.perlcommunity.org (main Journal home)
 - [Buy Issue 1 of the SPJ at B&N](https://www.barnesandnoble.com/w/the-science-perl-journal-issue-1-marc-perry/1146976256?ean=9798218984748)!
+
+Real Time Communications
+
+- Dr. Russell's [Perl Applications & Algorithms Discord Server](https://discord.gg/WKz6bGnn9B) - best Perl related chat around!
