@@ -7,7 +7,7 @@ More to follow soon.
 In the meantime, please check out the following links:
 
 - Perl Community Conference, Summer 2025 - Austin, Texas July 03, 2025, July 04, 2025 - [Call for Papars/Participation](https://www.papercall.io/perlcommunity)
-- https://PerlCommunity.org/science
+- Publish by the Science Perl Commitee, officially chartered by The [Perl Community](https://PerlCommunity.org/science), The Perl Community is a 501(c)(3) organization based in Austin, Texas. It is dedicated to the advancement of the Perl 5 through its committees, including AI Perl, Perl::Types, and the Science Perl Committees; and publications like the Science Perl Journal.
 - https://science.perlcommunity.org (main Journal home)
 - [Buy Issue 1 of the SPJ at B&N](https://www.barnesandnoble.com/w/the-science-perl-journal-issue-1-marc-perry/1146976256?ean=9798218984748)!
 
