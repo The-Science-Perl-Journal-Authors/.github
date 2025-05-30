@@ -1,6 +1,6 @@
 Github Home for Authors and maintainers of **The Science Perl Journal**.
 
-_The Science Perl Jpurnal_ is publish by the Science Perl Commitee, officially chartered by The [Perl Community](https://PerlCommunity.org/science), The Perl Community is a 501(c)(3) organization based in Austin, Texas. It is dedicated to the advancement of the Perl 5 through its committees, including AI Perl, Perl::Types, and the Science Perl Committees.
+_The Science Perl Journal_ is publish by the Science Perl Commitee, officially chartered by The [Perl Community](https://PerlCommunity.org/science), The Perl Community is a 501(c)(3) organization based in Austin, Texas. It is dedicated to the advancement of the Perl 5 through its committees, including AI Perl, Perl::Types, and the Science Perl Committees.
 
 DOI Prefix: [10.63971](https://doi.org/10.63971)
 
